@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6e0113/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 海印三昧論
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T45/T45n1889.xml
+    old_id: T45n1889
+hash: sha256:c9eb66066749ef55d808c55f9eb14510fd61e886b125e080bfa83a2b021e2741

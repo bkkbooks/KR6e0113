@@ -1,0 +1,50 @@
+canonical_identifier: bkk:krp/KR6e0113/T/v1
+canonical_location: https://kanripo.org/bkk/KR6e0113/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 海印三昧論
+  identifiers:
+    krp: KR6e0113
+    cbeta: T45n1889
+    cbeta_old_id: T45n1889
+    authorityid: CA0001309
+    json_key: T1889
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T45/T45n1889.xml
+    old_id: T45n1889
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0113_000-T.yaml, hash: 'sha256:c9eb66066749ef55d808c55f9eb14510fd61e886b125e080bfa83a2b021e2741'}
+  - {seq: 1, filename: KR6e0113_001-T.yaml, hash: 'sha256:14615abddded2b6499cb59ea1703fc03a4814a6a88c648fb86e01d7feaf710e6'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6e0113_000-T.markers.yaml, hash: 'sha256:c9640983b74b58c06eb8f4811b6c1662420f2acb30d83a70ea5ab25abc857dbb'}
+  - {seq: 1, role: markers, filename: assets/KR6e0113_001-T.markers.yaml, hash: 'sha256:c5fe40e263ded810f176479445d37dcbbae7e92c7e2605b1a432701179238104'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6e0113_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2267
+  label: '海印三昧論一卷并序
+
+    依大方廣佛華嚴經'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0113_T_001-mulu-1
+    span:
+    - body
+    - 4
+    - 4
+  label: 海印三昧論序
+  type: mulu
+  level: 1
+hash: sha256:d89350a8fb8cd643109ca4c5bf8b01c14c68369c2766485e7dac9fa676100ac0
